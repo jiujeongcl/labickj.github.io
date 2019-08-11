@@ -27,10 +27,10 @@ module.exports = {
     photo: '/photo.jpg',
     bio: 'Designer, Maker',
     contacts: {
-      email: '#',
+      email: 'labickj@gmail.com',
       telegram: '#',
       twitter: '#',
-      github: '#',
+      github: 'https://labickj.github.io',
       rss: '#',
       vkontakte: '#'
     }
